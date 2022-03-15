@@ -74,6 +74,7 @@ body{
     width:45%;
     align-items:center;
     margin-bottom:30px;
+    overflow:auto
 }
 .task__list h1{
     font-size:35px;
