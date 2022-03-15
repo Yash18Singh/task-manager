@@ -74,7 +74,6 @@ body{
     width:45%;
     align-items:center;
     margin-bottom:30px;
-    overflow:auto
 }
 .task__list h1{
     font-size:35px;
@@ -88,6 +87,7 @@ body{
     background:white;
     padding:15px 10px;
     box-shadow:0 2px 5px black;
+    overflow:auto
 }
 .task__listItem h3{
     color:#003979;
